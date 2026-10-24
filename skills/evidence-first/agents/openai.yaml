@@ -1,0 +1,3 @@
+interface:
+  display_name: "Evidence First"
+  short_description: "Trace factual claims to pinned local evidence"
